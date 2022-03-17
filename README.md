@@ -1,6 +1,6 @@
 # Jupytope
 computational extraction of viral epitopes
-# This tool is meant to run on a set of PDB chains. It will extract structural properties for viral epitopes.
+# This tool will extract structural properties for viral epitopes from a set of PDB chains.
 
 This program was tested in a Linux environment. 
 Running Jupyter Notebook: 
