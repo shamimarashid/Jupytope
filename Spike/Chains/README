@@ -1,2 +1,6 @@
-Place individual PDB chains here, in PDBID_chain format.
+
+Place individual PDB chains in this directory, in PDBID_chain format.
 E.g.: 7DZW_A.pdb
+
+PDB files are too large for Github upload. 
+Please download the PDB IDs given in Supplement/Spike353_Annotations.xlsx & extract the chain(s)
