@@ -11,6 +11,8 @@ ver 2.2.8 & Python: ver 3.6.11
 2. DSSP
 3. MSMS
 4. HSE (from Bio.PDB import HSExposure )
+5. numpy
+6. pandas
 
 
 # Installation
