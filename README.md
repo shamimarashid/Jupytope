@@ -54,11 +54,11 @@ Jupytope can be used to extract properties for any list of residues of interest 
 Just provide the same PDB and chain IDs for reference and query structures. 
 The full list of extracted features is available in our publication.
 
-cryo-EM files may slow the system and raise exceptions when computing normalized B-factors. 
+cryo-EM PDB files may slow the system and raise exceptions when computing normalized B-factors (since B-factors are 'dummy' entries anyway, for cryo-EM derived structures). 
 However, if allowed to complete, the other features will be computed as normal.
 
 Data that could not be extracted will be marked as 'None' or 'NaN'.
-For example, missing residues in the query structure at a given epitope position. 
+For example, missing residues in the query structure at a given epitope position will cause such values. 
 
 
 # Citation
