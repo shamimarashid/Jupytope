@@ -38,7 +38,7 @@ See code 'ChainSplitter.py' of David Cain. Alternatively, the Biopython PDBParse
 
 # 2. Spike/Alignments
 Should be created, and left blank. 
-#3. Epitope Sites
+# 3. Epitope Sites
 A list of epitope sites of interest (see example: Sites7DZW_Num.txt)
 # 4. PDB List
 A list of PDBIDs, Chains, and Year or Strain (see example: SARSCoV2_PDBID.txt). 
