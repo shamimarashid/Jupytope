@@ -43,7 +43,7 @@ A list of epitope sites of interest (see example: Sites7DZW_Num.txt)
 # 4. PDB List
 A list of PDBIDs, Chains, and Year or Strain (see example: SARSCoV2_PDBID.txt). 
 If Year or Strain data are not available, a placeholder such as 'x' or 'Absent' should be used
-#5. Reference Structure
+#5 . Reference Structure
 PDBID and chain of a reference structure
 
 # Running the Notebook
