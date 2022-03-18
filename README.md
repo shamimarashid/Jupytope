@@ -48,7 +48,8 @@ PDBID and chain of a reference structure
 
 # Running the Notebook
 
-Then the program can be run by changing the appropriate input and output filenames (see first cell of notebook).
+Then the program can be run by changing the appropriate input and output filenames (see first cell of notebook). 
+The delimiter of choice can be specified.
 
 Jupytope can be used to extract properties for any list of residues of interest (not just epitopes). 
 Just provide the same PDB and chain IDs for reference and query structures. 
