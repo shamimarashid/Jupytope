@@ -29,7 +29,7 @@ Non-default executable names may be attempted, but might cause an error in the B
 #  File Setup 
 
 It is recommended to create an antigen directory from within the Jupytope folder, e.g. 'Spike'.
-Then, two sub-directories (Chains and Alignments) should be created:
+Then, two sub-directories (Chains and Alignments) must be created by the user:
 
 # 1. Spike/Chains
 Should contain individual chains of the PDB files, named with the chain identifier: (e.g. 7DZW_A.pdb)
