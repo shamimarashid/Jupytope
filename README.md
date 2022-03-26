@@ -4,7 +4,7 @@ computational extraction of viral epitopes
 
 This program was tested in a Linux environment. 
 Running Jupyter Notebook: 
-ver 2.2.8 & Python: ver 3.6.11
+ver 2.2.8 & Python: ver 3.6.11. It is expected to work equally well on other operating systems running compatible versions of Python, provided the following dependencies are satisfied:
 
 # Dependencies:
 1. NACCESS
