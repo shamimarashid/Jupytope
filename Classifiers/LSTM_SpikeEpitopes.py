@@ -9,6 +9,7 @@
 
 import tensorflow as tf
 #Use Dynamic GPU Memory
+#Comment the 3 lines below to run on CPU
 gpu_devices = tf.config.experimental.list_physical_devices("GPU")
 for device in gpu_devices:
     tf.config.experimental.set_memory_growth(device, True)
