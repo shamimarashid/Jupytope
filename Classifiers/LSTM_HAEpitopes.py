@@ -7,7 +7,7 @@
 # http://introtodeeplearning.com
 
 import tensorflow as tf
-#Use Dynamic GPU Memory. Comment out 6-8 for running on CPU only.
+#Use Dynamic GPU Memory. Comment out the 3 lines below to run on CPU.
 gpu_devices = tf.config.experimental.list_physical_devices("GPU")
 for device in gpu_devices:
     tf.config.experimental.set_memory_growth(device, True)
