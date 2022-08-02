@@ -49,9 +49,6 @@ from Bio import SeqIO
 import random
 
 
-# In[ ]:
-
-
 fn1 = "Sites_final_SARSCoV2.csv" #Cleaned datafile with 54484 records
                                  #B-factors not applicable as many are cryo-EM files
 fields_4 = ['Hydropathy','SS','RSA','PHI','PSI','all_atoms_abs','all_atoms_rel','side_chain_abs',
